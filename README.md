@@ -31,9 +31,9 @@ pip install python-pptx Pillow pytesseract
 ```
 
 ## Tesseract OCR Installation
-
+ 
 You also need to install Tesseract OCR, which is used for text extraction from images. Follow the instructions below based on your operating system:
-- Windows: Download the installer from Tesseract at UB Mannheim and follow the installation instructions.
+- Windows: Download the installer from [Tesseract at UB Mannheim](https://github.com/UB-Mannheim/tesseract/wiki) and follow the installation instructions.
 - macOS: Install via Homebrew by running:
   
 ```bash
